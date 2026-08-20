@@ -27,7 +27,7 @@ A minimal, educational indexed binary file format and a small C++ library to cre
 ## Features
 
 - Create a BIFS file with a fixed capacity and record size.
-- Write/read fixed-size records by logical index.
+- Write/read fixed-size records by logical index. 
 - The index holds file offsets to records (0 indicates empty).
 
 ## Usage
