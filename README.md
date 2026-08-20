@@ -59,5 +59,4 @@ Run the included test harness:
 - `test/main.cpp` - small test harness
 
 ## License
-
 MIT
