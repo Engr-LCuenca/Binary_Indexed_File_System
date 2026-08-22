@@ -2,7 +2,7 @@
 
 A minimal, educational indexed binary file format and a small C++ library to create/read/write fixed-size records with an on-disk index.
 
-## Goals
+## Goals 
 
 - Demonstrate an on-disk indexed layout with a simple header, index area and data area.
 - Provide a tiny, portable C++ implementation suitable for learning and small experiments.
