@@ -36,7 +36,7 @@ public:
     bool create(const std::string &path, uint32_t capacity, uint32_t record_size);
 
     // open existing file
-    bool open(const std::string &path);
+    bool open(const std::string &path); 
 
     // close file
     void close();
