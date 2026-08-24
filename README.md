@@ -54,9 +54,9 @@ Run the included test harness:
 
 ## Files
 
-- `include/indexed_file.h` - public header
-- `src/indexed_file.cpp` - implementation
-- `test/main.cpp` - small test harness
+- `include/indexed_file.h` - public header.
+- `src/indexed_file.cpp` - implementation.
+- `test/main.cpp` - small test harness.
 
 ## License
 MIT 
