@@ -1,4 +1,4 @@
-# Binary Indexed File System (BIFS)
+# Binary Indexed File System (BIFS) 
 
 A minimal, educational indexed binary file format and a small C++ library to create/read/write fixed-size records with an on-disk index.
 
